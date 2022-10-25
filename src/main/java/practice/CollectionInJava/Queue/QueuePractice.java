@@ -1,4 +1,4 @@
-package practice.Queue;
+package practice.CollectionInJava.Queue;
 
 import java.util.LinkedList;
 import java.util.Queue;
@@ -6,6 +6,9 @@ import java.util.Queue;
 public class QueuePractice {
 
     public static void main(String[] args) {
+
+        //Reference Video :- https://www.youtube.com/watch?v=rzA7UJ-hQn4&t=1347s
+
         Queue<Integer> queue = new LinkedList<>();
 
         /************************************************************************************/

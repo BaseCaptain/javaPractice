@@ -1,4 +1,4 @@
-package practice.Lambda;
+package practice.CollectionInJava.Lambda;
 
 @FunctionalInterface //contains only one method
 public interface MyInterface {

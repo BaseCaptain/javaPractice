@@ -1,4 +1,4 @@
-package practice.Stack;
+package practice.CollectionInJava.Stack;
 
 import java.util.Stack;
 

@@ -1,4 +1,4 @@
-package practice.PriorityQueue;
+package practice.CollectionInJava.PriorityQueue;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;
@@ -6,6 +6,8 @@ import java.util.PriorityQueue;
 public class PriorityQueuePractice {
 
     public static void main(String[] args) {
+
+        //Reference Video :- https://www.youtube.com/watch?v=rzA7UJ-hQn4&t=1759s
 
         // this will by default work for min heap
         PriorityQueue<Integer> priorityQueue = new PriorityQueue<>();
