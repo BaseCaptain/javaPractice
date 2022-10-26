@@ -1,4 +1,4 @@
-package practice.CollectionInJava.Lambda;
+package practice.Java8.Lambda;
 
 @FunctionalInterface
 public interface AdditionInterface {

@@ -1,4 +1,4 @@
-package practice.CollectionInJava.Lambda;
+package practice.Java8.Lambda;
 
 
 public class LambdaExpression {
