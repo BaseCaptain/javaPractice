@@ -120,6 +120,7 @@ public class DemoApplication {
 		System.out.println("Second largest num is " + a[len-2]);*/
 
 		//Number character in String
+		int a2[] = {};
 		String str = "vaibhav";
 		int len = str.length();
 		char ch[]=new char[str.length()];
@@ -131,7 +132,7 @@ public class DemoApplication {
 				}
 			}
 			if(find==1){
-				System.out.println("Number of occu"+str.charAt(i)+"is:"+str.charAt(i));
+				System.out.println("Number of occu "+str.charAt(i)+"is:"+find);
 			}
 		}
 
